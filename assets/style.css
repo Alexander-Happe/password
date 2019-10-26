@@ -1,0 +1,55 @@
+* {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.col-1 {
+    background-color: white;
+    margin: 0%;
+}
+
+.col {
+    background-color: white;
+    border-bottom: 1px solid grey;
+    padding-top: 50px;
+}
+
+.header {
+    text-align: center;
+}
+
+.textbox {
+    text-align: center;
+    color: grey;
+    border: 1px dotted grey;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+
+.final {
+    border-bottom: 1px solid white;
+}
+
+#passbutton {
+    background-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+}
+
+#clipbutton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    background-color: lightgray;
+}
